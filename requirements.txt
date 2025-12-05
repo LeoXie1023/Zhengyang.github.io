@@ -1,6 +1,7 @@
 ipykernel
 pandas
 plotly
+openpyxl
 
 # needed for plotly
 nbformat
